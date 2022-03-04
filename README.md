@@ -1,4 +1,4 @@
-### Hi there 👋, Hein Thant
+### Hi there 👋, I'm Hein Thant.
 #### Self-taught Programmer
 ![Self-taught Programmer](https://raw.githubusercontent.com/IndieCoderMM/IndieCoderMM/00800a1d7e5761ccedbf70e1996133ef19be988c/profileBanner.png)
 
