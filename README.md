@@ -1,11 +1,13 @@
-### Hi there 👋, I'm Hein Thant
-#### Self-taught Programmer
 ![Self-taught Programmer](https://raw.githubusercontent.com/IndieCoderMM/IndieCoderMM/00800a1d7e5761ccedbf70e1996133ef19be988c/profileBanner.png)
 
+# Hein Thant
 I'm Hein thant. I enjoy learning programming and creating my own projects and games. I also like to share my experience with others and I'm running a wordpress blog on indiecodermm.tech.blog where I write about programming-related articles. You can check out my facebook page at facebook.com/indiecodingschool. 
 
 
-Skills: Python / JS / HTML / CSS
+## Skills and Experience
+* 🐍 Python
+* ⚙  Javascript
+* 💻 HTML, CSS
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning Django, Tensorflow and AngularJS 
