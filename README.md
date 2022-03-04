@@ -13,6 +13,9 @@ I'm Hein thant. I enjoy learning programming and creating my own projects and ga
 - 🌱 I’m currently learning Django, Tensorflow and AngularJS 
 - 📫 How to reach me: hthant00chk@gmail.com 
 
+## My Projects
+<img src="" width="256"/>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndieCoderMM)
 
