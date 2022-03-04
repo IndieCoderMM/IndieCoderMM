@@ -12,7 +12,6 @@ Skills: Python / JS / HTML / CSS
 - 📫 How to reach me: hthant00chk@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndieCoderMM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](indiecodermm.tech.blog)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndieCoderMM)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical)
