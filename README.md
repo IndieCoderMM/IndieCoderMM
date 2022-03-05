@@ -3,6 +3,7 @@
 # Hi there, 🖐
 I'm Hein thant from Myanmar. I enjoy learning programming and creating my own projects and games. I also like to share my experience with others and I'm running a wordpress blog on indiecodermm.tech.blog where I write about programming-related articles. You can check out my facebook page at facebook.com/indiecodingschool. 
 
+[![Mail Badge](https://img.shields.io/badge/-hthant00chk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com)
 
 ## Skills and Experience
 * 🐍 Python
@@ -11,7 +12,7 @@ I'm Hein thant from Myanmar. I enjoy learning programming and creating my own pr
 
 - 🔭 I’m currently working on my own projects 
 - 🌱 I’m currently learning Django, Tensorflow and AngularJS 
-- 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/-hthant00chk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com)
+- 📫 How to reach me: hthant00chk@gmail.com
 
 ## My Projects
 
