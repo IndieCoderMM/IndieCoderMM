@@ -11,7 +11,7 @@ I'm a self-taught programmer from Myanmar. I enjoy learning programming and crea
 * 💻 HTML, CSS
 
 - 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning Django, Tensorflow and AngularJS 
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: hthant00chk@gmail.com
 
 ## My Projects
