@@ -7,11 +7,9 @@ I'm a self-taught programmer from Myanmar. I enjoy learning programming and crea
 
 ## Skills and Experience
 - 🐍 Python
-- ⚙  Javascript
+- ⚙️ Javascript
 - 💻 HTML, CSS
-
-- 🔭 I’m currently working on my own projects 
-- 🌱 I’m currently learning at [Microverse](https://www.microverse.org)
+- 👨‍🚀 I’m currently learning at [Microverse](https://www.microverse.org)
 - 📫 How to reach me: hthant00chk@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndieCoderMM)
