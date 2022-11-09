@@ -8,6 +8,7 @@ I'm a self-taught programmer from Myanmar. I enjoy learning programming and crea
 ## Skills and Experience
 - 🐍 Python
 - ⚙️ Javascript
+- 🛠️ C, C++
 - 💻 HTML, CSS
 - 👨‍🚀 I’m currently learning at [Microverse](https://www.microverse.org)
 - 📫 How to reach me: hthant00chk@gmail.com
