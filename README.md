@@ -12,6 +12,4 @@ I'm a self-taught programmer from Myanmar. I enjoy learning programming and crea
 - 👨‍🚀 I’m currently learning at [Microverse](https://www.microverse.org)
 - 📫 How to reach me: hthant00chk@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IndieCoderMM)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical)
+![Hein Thant's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical)
