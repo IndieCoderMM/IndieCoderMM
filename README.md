@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm Hein Thant
 <!-- [![Mail Badge](https://img.shields.io/badge/-hthant00chk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com) -->
-
-I'm a self-taught programmer from Myanmar who loves solving puzzles and making games. I'm a fan of old-school games and animations, and I believe that the best projects are created by mixing old with new. 
-
+ 
+- 😀 I'm a self-taught programmer from Myanmar.
+- 🧩 I love solving puzzles and working with algorithms.
 - 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
 - 🌍 I'm currently collaborating with other devs from all over the world.
 - 🔭 I'm always looking for new ways to challenge myself and my creativity.
