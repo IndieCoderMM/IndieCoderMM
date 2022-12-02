@@ -21,11 +21,7 @@ I'm a self-taught programmer from Myanmar who loves solving puzzles and making g
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br>
-<br>
-<br>
-<br>
-
+<br><br>
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" width="60%">
