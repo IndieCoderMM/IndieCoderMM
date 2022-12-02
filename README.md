@@ -24,6 +24,6 @@ I'm a self-taught programmer from Myanmar who loves solving puzzles and making g
 <br><br>
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndieCoderMM&show_icons=true&hide_border=true&theme=radical" width="25%" alt="Hein's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" width="65%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndieCoderMM&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Hein's Top Languages">
 
