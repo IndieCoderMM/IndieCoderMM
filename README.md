@@ -34,10 +34,8 @@
 
 ## ⚡ GitHub Stats
 
-<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/>
-<img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" >
-
-
-
+<p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
+<p>
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" ></p>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical" alt="indiecodermm"/></div>
