@@ -34,8 +34,8 @@
 
 ## ⚡ GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" >
+<img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/>
+<img width="60%" align="right" src="https://github-readme-stats.vercel.app/api?username=IndieCoderMM&show_icons=true&theme=radical" alt="Hein's Github Stats" >
 
 
 
