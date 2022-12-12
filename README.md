@@ -1,6 +1,9 @@
+# 👋 Hi there, I'm Hein Thant
+
 ![Self-taught Programmer](https://raw.githubusercontent.com/IndieCoderMM/IndieCoderMM/master/icmm-banner.png)
 
-# 👋 Hi there, I'm Hein Thant
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indiecodermm&label=Profile%20views&color=0e75b6&style=flat" alt="indiecodermm" /> </p>
+
 <!-- [![Mail Badge](https://img.shields.io/badge/-hthant00chk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com) -->
  
 - 😀 I'm a self-taught programmer from Myanmar.
