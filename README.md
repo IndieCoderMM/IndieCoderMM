@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hein Thant
 
-![Cover photo](profile-banner.png "Profile cover")
+![Cover photo](black-profile-banner.png "Profile cover")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indiecodermm&label=Profile%20views&color=0e75b6&style=flat" alt="indiecodermm" /> </p>
 
