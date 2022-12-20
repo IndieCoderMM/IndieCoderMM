@@ -37,8 +37,13 @@
 
 ## ⚡ GitHub Stats
 
-<p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
+|  |  |
+|---|---|
+| ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=radical) |
+
+<!-- <p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
 <p>
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical" alt="Hein's Github Stats" ></p>
+<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical" alt="Hein's Github Stats" ></p> -->
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical" alt="indiecodermm"/></div> -->
