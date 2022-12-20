@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hein Thant
 
-![Cover photo](cover-banner.png "Profile cover")
+![Cover photo](cover-banner.png "Hein Thant")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indiecodermm&label=Profile%20views&color=0e75b6&style=flat" alt="indiecodermm" /> </p>
 
@@ -39,8 +39,8 @@
 
 |  |  |
 |---|---|
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=radical)  | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=radical)  |  ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
+|  ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical)  |
 
 <!-- <p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
 <p>
