@@ -37,9 +37,9 @@
   
 ## 🚀 Recent Works
 <p align="left">
- <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="33%" height="200"></a>
- <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="33%" height="200"></a>
- <a href="https://github.com/IndieCoderMM/awesome-books" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/awesome-books/blob/master/app_screenshot.png" alt="awesome books" width="33%" height="200"></a>
+ <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="30%"></a>
+ <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="30%"></a>
+ <a href="https://github.com/IndieCoderMM/awesome-books" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/awesome-books/blob/master/app_screenshot.png" alt="awesome books" width="30%" height="200"></a>
  </p>
   
 ## 🎮 Fun Projects
