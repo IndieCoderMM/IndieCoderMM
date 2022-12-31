@@ -34,6 +34,21 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/></a>  
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></p>
+  
+## 🌐 Recent Works
+<p align="left">
+ <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="33%" height="200"></a>
+ </p>
+  
+## 🎮 Fun Projects
+<p align="left">
+ <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/screenshot01.png" alt="top down shooter" width="33%" height="200"/></a>
+  <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/Screenshot-platformer00.png" alt="platformer" width="33%" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/screenshot00.png" alt="bridge hero" width="33%" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai" width="33%" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/raylib-games/tree/master/BreakOut" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/raylib-games/blob/master/BreakOut/screenshots/ss-bout-01.png" alt="chess" width="33%" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" title="a_star" width="33%" height="200"/></a>
+</p>
 
 ## ⚡ GitHub Stats
 
