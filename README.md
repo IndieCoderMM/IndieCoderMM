@@ -35,9 +35,11 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></p>
   
-## 🌐 Recent Works
+## 🚀 Recent Works
 <p align="left">
- <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="33%" height="200"></a>
+ <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="33%" height="200"></a>
+ <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="33%" height="200"></a>
+ <a href="https://github.com/IndieCoderMM/awesome-books" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/awesome-books/blob/master/app_screenshot.png" alt="awesome books" width="33%" height="200"></a>
  </p>
   
 ## 🎮 Fun Projects
