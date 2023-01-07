@@ -37,9 +37,10 @@
   
 ## 🚀 Recent Works
 <p align="left">
+ <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="pixel bros" width="200" height="100"></a>
  <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="200" height="100"></a>
  <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="200" height="100"></a>
- <a href="https://github.com/IndieCoderMM/awesome-books" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/awesome-books/blob/master/app_screenshot.png" alt="awesome books" width="200" height="100"></a>
+ 
  </p>
   
 ## 🎮 Fun Projects
@@ -57,7 +58,7 @@
 |  |  |
 |---|---|
 | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
-| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical)   |   |
+| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical)   |   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) |
 
 <!-- ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) -->
 
