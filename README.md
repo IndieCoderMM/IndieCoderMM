@@ -40,22 +40,22 @@
   
 ## 🚀 Recent Works
 <p align="left">
- <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" width="200" height="100"></a>
- <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="pixel bros" width="200" height="100"></a>
- <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="200" height="100"></a>
- <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="200" height="100"></a>
+ <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="pixel bros" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="250" height="150"></a>
  
  </p>
   
 ## 🎮 Fun Projects
 <p align="left">
- <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/screenshot01.png" alt="top down shooter" width="200" height="100"/></a>
-  <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="200" height="100"/></a>
- <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="100"/></a>
- <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai"width="200" height="100"/></a>
- <a href="https://github.com/IndieCoderMM/raylib-games/tree/master/BreakOut" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/raylib-games/blob/master/BreakOut/screenshots/ss-bout-01.png" alt="chess" width="200" height="100"/></a>
- <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="200" height="100"/></a>
- <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Game-of-life" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Game-of-life/gol-demo.gif" alt="game of life" width="200" height="100"/></a>
+ <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/screenshot01.png" alt="top down shooter" width="300" height="200"/></a>
+  <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="300" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="300" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai"width="300" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/raylib-games/tree/master/BreakOut" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/raylib-games/blob/master/BreakOut/screenshots/ss-bout-01.png" alt="chess" width="300" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="300" height="200"/></a>
+ <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Game-of-life" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Game-of-life/gol-demo.gif" alt="game of life" width="300" height="200"/></a>
 </p>
 
 ## ⚡ GitHub Stats
