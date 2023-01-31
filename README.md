@@ -14,7 +14,7 @@
 - 🎮 In my free time, I pursue game development as a hobby.
 - 📫 Feel free to reach out to me at: hthant00chk@gmail.com
 
-### Connect with me:
+### 📧 Connect with me
 <p align="left">
 <a href="https://twitter.com/hthant_oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heinthanto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hthantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinthant" height="30" width="40" /></a>
@@ -40,9 +40,10 @@
   
 ## 🚀 Recent Works
 <p align="left">
+ <a href="https://github.com/IndieCoderMM/bookstore-cms" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/bookstore-cms/blob/main/app_screenshot.png" alt="bookstore" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="pixel bros" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="250" height="150"></a>
+<!--  <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="250" height="150"></a> -->
 <!--  <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="250" height="150"></a> -->
  
  </p>
