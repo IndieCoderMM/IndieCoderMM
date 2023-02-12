@@ -40,10 +40,11 @@
   
 ## 🚀 Recent Works
 <p align="left">
- <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/bookstore-cms" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/bookstore-cms/blob/main/app_screenshot.png" alt="bookstore" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="pixel bros" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/ip-tracker/blob/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/bookstore-cms" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/bookstore-cms/blob/main/app_screenshot.png" alt="bookstore" title="Bookstore CMS" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" title="Math Magicians" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="gaming social platform" title="Pixel Bros" width="250" height="150"></a>
 <!--  <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="250" height="150"></a> -->
 <!--  <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="250" height="150"></a> -->
  
