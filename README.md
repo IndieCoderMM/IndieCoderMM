@@ -43,6 +43,7 @@
   
 ## 🚀 Recent Works
 <p align="left">
+ <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/ip-tracker/blob/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/bookstore-cms" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/bookstore-cms/blob/main/app_screenshot.png" alt="bookstore" title="Bookstore CMS" width="250" height="150"></a>
