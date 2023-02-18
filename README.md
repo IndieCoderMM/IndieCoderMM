@@ -56,6 +56,7 @@
   
 ## 🎮 Fun Projects
 <p align="left">
+  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="180"/></a>
