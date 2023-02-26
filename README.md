@@ -2,45 +2,48 @@
 
 ![Cover photo](cover-banner.png "Hein Thant")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indiecodermm&label=Profile%20views&color=0e75b6&style=flat" alt="indiecodermm" /> </p>
-
-<!-- [![Mail Badge](https://img.shields.io/badge/-hthant00chk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:hthant00chk@gmail.com) -->
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge" alt="indiecodermm" />
+<a href="https://github.com/IndieCoderMM?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IndieCoderMM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+ <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
  
-- 😀 I'm a self-taught programmer from Myanmar.
+- 👨‍💻 I'm a self-taught programmer from Myanmar.
 - 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
-- 🌍 I'm currently collaborating with other devs from all over the world.
-- 🔭 I'm always looking for new ways to challenge myself and my creativity.
+- 🤝 I'm always open to collaborating on interesting projects.
+- 🔍 I'm always looking for new ways to challenge myself and my creativity.
 - 🧩 I love solving puzzles and working with algorithms.
-- 🎮 In my free time, I pursue game development as a hobby.
-- 📫 Feel free to reach out to me at: hthant00chk@gmail.com
+- 🎮 As a hobby, I make fun little games to explore new ideas and techniques.
+- 💬 Chat with me about React, Python, game dev or anything else related to web development.
 
 ### 📧 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/hthantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heinthant" height="30" width="40" /></a>
- <a href="https://angel.co/u/hthantoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angellist.svg" alt="heinthant" height="30" width="40" /></a>
- <a href="https://medium.com/@hthant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/medium.svg" alt="heinthanto" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hthant00chk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hthant00chk" height="30" width="40" /></a>
- <a href="mailto:hthant00chk@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/google-gmail.svg" alt="@hthant00chk" height="30" width="30" /></a>
-</p>
+<a href="https://linkedin.com/in/hthantoo"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@hthant"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://angel.co/u/hthantoo"><img alt="wellfound" title="Wellfound Profile" src="https://custom-icon-badges.demolab.com/badge/AngelList-673ab7?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/@hthant00chk"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="mailto:hthant00chk@gmail.com"><img alt="Gmail" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/Gmail-f44336?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## ⚙ Languages and Tools
+___
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/></a>  
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
- <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="40" height="40" /></a>  
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></p>
-  
+## 🧰 Languages and Tools
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="React" width="30px" height="30px style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />       
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br/><br/>
+
 ## 🚀 Recent Works
 <p align="left">
  <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
@@ -49,10 +52,7 @@
  <a href="https://github.com/IndieCoderMM/bookstore-cms" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/bookstore-cms/blob/main/app_screenshot.png" alt="bookstore" title="Bookstore CMS" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/math-magicians" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/math-magicians/blob/develop/app_screenshot.png" alt="math magicians" title="Math Magicians" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="gaming social platform" title="Pixel Bros" width="250" height="150"></a>
-<!--  <a href="https://github.com/IndieCoderMM/commit-conquest" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/commit-conquest/blob/develop/leaderboard_screenshot.png" alt="commit conquest" width="250" height="150"></a> -->
-<!--  <a href="https://github.com/IndieCoderMM/todo-app" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/todo-app/blob/master/app_screenshot.png" alt="todo app" width="250" height="150"></a> -->
- 
- </p>
+</p>
   
 ## 🎮 Fun Projects
 <p align="left">
