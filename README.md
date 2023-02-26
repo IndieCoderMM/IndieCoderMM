@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://angel.co/u/hthantoo" target="_blank" rel="noreferrer"><img alt="wellfound" title="Wellfound Profile" src="https://custom-icon-badges.demolab.com/badge/AngelList-673ab7?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/@hthant00chk target="_blank" rel="noreferrer""><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/@hthant00chk" target="_blank" rel="noreferrer"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="Gmail" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/Gmail-f44336?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ___
