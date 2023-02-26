@@ -66,17 +66,9 @@ ___
 </p>
 
 ## ⚡ GitHub Stats
-<p>
-<img  style="padding-right:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical" alt="indiecodermm"/></p>
-<p>
-<img style="padding-right:10px;" align="left"  src="https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical" alt="indiecodermm"/></p>
-<br/><br/>
-<p><img style="padding-right:10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
-<p><img style="padding-right:10px;width:60%" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=radical" alt="indiecodermm"/></p>
-
-<!--
+| |
+|:---:|
 | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) |
-| ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
 | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=2077) | 
 | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |  
--->
+| ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
