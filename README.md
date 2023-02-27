@@ -65,10 +65,13 @@ ___
  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Game-of-life" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Game-of-life/gol-demo.gif" alt="game of life" width="200" height="180"/></a>
 </p>
 
+## ⏰ Weekly Coding Stats
+[![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡ GitHub Stats
-| |
-|:---:|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=2077) | 
-| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |  
-| ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
+
+| | |
+|:---:|:---:|
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |  
+
