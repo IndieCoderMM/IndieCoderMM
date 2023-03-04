@@ -55,6 +55,7 @@ ___
   
 ## 🎮 Fun Projects
 <p align="left">
+  <a href="https://github.com/IndieCoderMM/steel-warriors" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/steel-warriors/blob/main/demo_gameplay.gif" alt="tanks shooter" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="200" height="180"/></a>
@@ -62,7 +63,7 @@ ___
  <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai"width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/chess-gui" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/chess-gui/blob/master/screenshots/chess_gui_demo.gif" alt="chess" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="200" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Game-of-life" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Game-of-life/gol-demo.gif" alt="game of life" width="200" height="180"/></a>
+<!--  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Game-of-life" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Game-of-life/gol-demo.gif" alt="game of life" width="200" height="180"/></a> -->
 </p>
 
 ## ⏰ Weekly Coding Stats
