@@ -3,7 +3,8 @@
 ![Cover photo](cover-banner.png "Hein Thant")
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge" alt="indiecodermm" />
+<img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge&label=Views" alt="indiecodermm" />
+<!-- <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=yellow&color=orange&label=Streak&style=for-the-badge&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DIndieCoderMM%26type%3Djson" alt="indiecodermm" /> -->
 <a href="https://github.com/IndieCoderMM?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IndieCoderMM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
@@ -20,7 +21,7 @@
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://angel.co/u/hthantoo" target="_blank" rel="noreferrer"><img alt="wellfound" title="Wellfound Profile" src="https://custom-icon-badges.demolab.com/badge/AngelList-673ab7?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/@hthant00chk" target="_blank" rel="noreferrer"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/hthant00chk" target="_blank" rel="noreferrer"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="Gmail" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/Gmail-f44336?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ___
@@ -30,13 +31,16 @@ ___
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="React" width="30px" height="30px style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />       
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Django" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />      
+
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />     
+<img align="left" alt="Jest" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
