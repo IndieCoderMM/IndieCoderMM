@@ -78,6 +78,6 @@ ___
 
 | | |
 |:---:|:---:|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) |
 | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=dracula) |  ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
 
