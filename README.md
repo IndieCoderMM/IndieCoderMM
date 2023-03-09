@@ -70,12 +70,14 @@ ___
 </p>
 
 ## ⏰ Weekly Coding Stats
-[![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg)](https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883)
+
+[![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&hide_title=true&range=last_7_days&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ GitHub Stats
 
 | | |
 |:---:|:---:|
-| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=radical) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=radical) |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=2077) | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=radical) |  
+| ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula) |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=dracula) |  ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
 
