@@ -9,13 +9,13 @@
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
  
-- 👨‍🚀 I'm a self-taught programmer from Myanmar, with a passion for **crafting innovative and efficient solutions** through the art of coding.
-- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc), gaining solid foundation in the modern web frameworks, API integration and agile development practices.
+- 👨‍🚀 I'm a self-taught programmer from Myanmar, with a passion for **crafting innovative and efficient solutions**.
+- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc), gaining solid foundation in the modern web technologies, and agile practices.
 - 🚀 I've worked on **12+ production-level web apps**, both individually and as part of collaborative teams.
 - ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into realm of programming.
 - 🎮 I enjoy **making fun mini-games** in my free time, exploring new techniques and bringing imaginative ideas to life.
 - ☀ When I'm not coding, you'll often find me cycling 🚴‍♂️ or playing with my beloved dogs 🐶.
-- 🤝 I'm always excited to collaborate on interesting projects, share ideas and explore new possibilities.
+- 🤝 I'm always excited to **collaborate on interesting projects**, share ideas and explore new possibilities.
 - 📫 If you're interested in collaboration, have any questions or simply want to connect, feel free to reach out to me at: hthant00chk@gmail.com
 
 ### 🔗 My Profiles
@@ -53,23 +53,23 @@
 ## 🚀 Recent Works
 
 <p align="left">
+<a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width="250" height="150"></a>
 <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/coin-trackr/blob/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="250" height="150"></a>
  <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://github.com/tobuya/kitchen-genie/blob/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/ip-tracker/blob/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/js-capstone" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/js-capstone/blob/develop/ss-homepage.png" alt="gaming social platform" title="Pixel Bros" width="250" height="150"></a>
 </p>
   
 ## 🎮 Fun Projects
 <p align="left">
+  <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/penguin-dash/blob/main/penguin-dash-demo.gif" alt="platformer game" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/space-odyssey" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/space-odyssey/blob/main/demo.gif" alt="genetic spaceships" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/steel-warriors" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/steel-warriors/blob/main/demo_gameplay.gif" alt="tanks shooter" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai"width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="200" height="180"/></a>
 </p>
 
