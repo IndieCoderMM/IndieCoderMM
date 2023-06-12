@@ -1,32 +1,35 @@
 # 👋 Hi there, I'm Hein Thant
 
-![Cover photo](cover-banner.png "Hein Thant")
+![Cover photo](cover-banner.png 'Hein Thant')
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge&label=Views" alt="indiecodermm" />
-<!-- <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=yellow&color=orange&label=Streak&style=for-the-badge&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DIndieCoderMM%26type%3Djson" alt="indiecodermm" /> -->
+<img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=yellow&color=orange&label=Streak&style=for-the-badge&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DIndieCoderMM%26type%3Djson" alt="indiecodermm" />
 <a href="https://github.com/IndieCoderMM?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IndieCoderMM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
  
-- 👨‍💻 I'm a self-taught programmer from Myanmar.
-- 👨‍🚀 I'm currently learning full-stack development at [Microverse](https://github.com/microverseinc).
-- 🤝 I'm always open to collaborating on interesting projects.
-- 🔍 I'm always looking for new ways to challenge myself and my creativity.
-- 🧩 I love solving puzzles and working with algorithms.
-- 🎮 As a hobby, I make fun little games to explore new ideas and techniques.
-- 💬 Chat with me about React, Python, game dev or anything else related to web development.
+- 👨‍🚀 I'm a self-taught programmer from Myanmar, with a passion for **crafting innovative and efficient solutions** through the art of coding.
+- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc), gaining solid foundation in the modern web frameworks, API integration and agile development practices.
+- 🚀 I've worked on **12+ production-level web apps**, both individually and as part of collaborative teams.
+- ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into realm of programming.
+- 🎮 I enjoy **making fun mini-games** in my free time, exploring new techniques and bringing imaginative ideas to life.
+- ☀ When I'm not coding, you'll often find me cycling 🚴‍♂️ or playing with my beloved dogs 🐶.
+- 🤝 I'm always excited to collaborate on interesting projects, share ideas and explore new possibilities.
+- 📫 If you're interested in collaboration, have any questions or simply want to connect, feel free to reach out to me at: hthant00chk@gmail.com
 
-### 📧 Connect with me
+### 🔗 My Profiles
+
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://angel.co/u/hthantoo" target="_blank" rel="noreferrer"><img alt="wellfound" title="Wellfound Profile" src="https://custom-icon-badges.demolab.com/badge/AngelList-673ab7?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/hthant00chk" target="_blank" rel="noreferrer"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="Gmail" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/Gmail-f44336?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-___
+---
 
 ## 🧰 Languages and Tools
+
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
@@ -48,6 +51,7 @@ ___
 <br/><br/><br/>
 
 ## 🚀 Recent Works
+
 <p align="left">
 <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/coin-trackr/blob/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="250" height="150"></a>
  <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://github.com/tobuya/kitchen-genie/blob/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width="250" height="150"></a>
@@ -70,14 +74,14 @@ ___
 </p>
 
 ## ⏰ Weekly Coding Stats
+
 [![wakatime](https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg)](https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883)
 
 [![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&hide_title=true&range=last_7_days&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ GitHub Stats
 
-| | |
-|:---:|:---:|
-| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=dracula) |  ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
-
+|                                                                                                                           |                                                                                                                                                          |
+| :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula)          |                               ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula)                               |
+| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=dracula) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
