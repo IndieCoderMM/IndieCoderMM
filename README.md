@@ -10,7 +10,7 @@
 </p>
  
 - 👨‍🚀 I'm a self-taught programmer from Myanmar, with a passion for **crafting innovative and efficient solutions**.
-- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc), gaining solid foundation in the modern web technologies, and agile practices.
+- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc).
 - 🚀 I've worked on **12+ production-level web apps**, both individually and as part of collaborative teams.
 - ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into realm of programming.
 - 🎮 I enjoy **making fun mini-games** in my free time, exploring new techniques and bringing imaginative ideas to life.
