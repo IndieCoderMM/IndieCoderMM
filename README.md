@@ -72,7 +72,7 @@
  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="200" height="180"/></a>
  <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="180"/></a>
   <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai" width="200" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/chess-gui" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/chess-gui/blob/master/screenshots/chess_gui_demo.gif" alt="chess gui" width="200" height="180"/></a>
+<!--  <a href="https://github.com/IndieCoderMM/chess-gui" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/chess-gui/blob/master/screenshots/chess_gui_demo.gif" alt="chess gui" width="200" height="180"/></a> -->
  <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="300" height="180"/></a>
 </p>
 
