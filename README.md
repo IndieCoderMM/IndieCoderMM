@@ -54,37 +54,31 @@
 
 <p align="left">
 <a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width="250" height="150"></a>
-<a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/coin-trackr/blob/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="250" height="150"></a>
- <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://github.com/tobuya/kitchen-genie/blob/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
+<a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/coin-trackr/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="250" height="150"></a>
+ <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tobuya/kitchen-genie/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width="250" height="150"></a>
+ <!-- <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/ip-tracker/blob/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a> -->
 </p>
   
 ## 🎮 Fun Projects
 
 <p align="left">
-  <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/penguin-dash/blob/main/penguin-dash-demo.gif" alt="platformer game" width="300" height="180"/></a>
-  <a href="https://github.com/IndieCoderMM/space-odyssey" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/space-odyssey/blob/main/demo.gif" alt="genetic spaceships" width="200" height="180"/></a>
-  <a href="https://github.com/IndieCoderMM/steel-warriors" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/steel-warriors/blob/main/demo_gameplay.gif" alt="tanks shooter" width="200" height="180"/></a>
-  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="200" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width="300" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="200" height="180"/></a>
- <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="180"/></a>
-  <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai" width="200" height="180"/></a>
+  <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/penguin-dash/main/penguin-dash-demo.gif" alt="platformer game" width="200" height="100"/></a>
+  <a href="https://github.com/IndieCoderMM/space-odyssey" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/space-odyssey/blob/main/demo.gif" alt="genetic spaceships" width="150" height="100"/></a>
+  <a href="https://github.com/IndieCoderMM/steel-warriors" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/steel-warriors/blob/main/demo_gameplay.gif" alt="tanks shooter" width="150" height="100"/></a>
+  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="150" height="100"/></a>
+ <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width="200" height="100"/></a>
+ <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="150" height="100"/></a>
+ <!-- <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="200" height="180"/></a>
+  <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai" width="200" height="180"/></a> -->
 <!--  <a href="https://github.com/IndieCoderMM/chess-gui" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/chess-gui/blob/master/screenshots/chess_gui_demo.gif" alt="chess gui" width="200" height="180"/></a> -->
- <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="300" height="180"/></a>
+ <!-- <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width="300" height="180"/></a> -->
 </p>
 
-## ⏰ Weekly Coding Stats
+## ⚡ Coding Stats
 
-[![wakatime](https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg)](https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883)
-
-[![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&hide_title=true&range=last_7_days&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## ⚡ GitHub Stats
-
-|                                                                                                                           |                                                                                                                                                          |
-| :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula)          |                               ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula)                               |
-| ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndieCoderMM&theme=dracula) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
+| | |
+| :---: | :---: |
+| ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) | 
+| [![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&hide_title=true&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=6) |
