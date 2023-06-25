@@ -9,14 +9,14 @@
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
  
-- 👨‍🚀 I'm a self-taught programmer from Myanmar, with a passion for **crafting innovative and efficient solutions**.
+- 👨‍🚀 I'm a self-taught programmer from Myanmar.
 - 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc).
 - 🚀 I've worked on **12+ production-level web apps**, both individually and as part of collaborative teams.
 - ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into realm of programming.
 - 🎮 I enjoy **making fun mini-games** in my free time, exploring new techniques and bringing imaginative ideas to life.
-- ☀ When I'm not coding, you'll often find me cycling 🚴‍♂️ or playing with my beloved dogs 🐶.
-- 🤝 I'm always excited to **collaborate on interesting projects**, share ideas and explore new possibilities.
-- 📫 If you're interested in collaboration, have any questions or simply want to connect, feel free to reach out to me at: hthant00chk@gmail.com
+- ☀ When I'm not coding, you'll often find me cycling 🚴‍♂️ or playing with puppies 🐶.
+- 🤝 I'm always excited to **collaborate on interesting projects**, share ideas and learn new things.
+- 📫 If you're interested in collaboration, have any questions or simply want to connect, reach out to me at: hthant00chk@gmail.com
 
 ### 🔗 My Profiles
 
@@ -56,9 +56,9 @@
 <a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width="250" height="150"></a>
 <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/coin-trackr/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="250" height="150"></a>
  <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tobuya/kitchen-genie/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width="250" height="150"></a>
- <!-- <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/nation-guide/blob/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/ip-tracker/blob/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/gh-dashboard/blob/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a> -->
+ <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/nation-guide/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/ip-tracker/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/gh-dashboard/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
 </p>
   
 ## 🎮 Fun Projects
