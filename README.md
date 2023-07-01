@@ -11,12 +11,13 @@
  
 - 👨‍🚀 I'm a self-taught programmer from Myanmar.
 - 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc).
-- ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into realm of programming.
-- 🎮 I enjoy **making fun mini-games** in my free time, exploring new techniques and bringing imaginative ideas to life.
-- 🤝 I'm always excited to **collaborate on interesting projects**, anything about developing innovative solutions or creating games. 
-- 📫 If you're interested in collaboration, have any questions, or simply want to connect, reach out to me at: hthant00chk@gmail.com
+- ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into the realm of programming.
+- 🎮 I enjoy **working on fun mini-games** in my free time, exploring new techniques, and bringing imaginative ideas to life.
+- 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
+- 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to connect.
+  - 📧 hthant00chk@gmail.com
 
-### 🔗 My Profiles
+### 🔗 Profiles
 
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -41,7 +42,7 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Django" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />     
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
