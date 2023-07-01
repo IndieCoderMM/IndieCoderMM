@@ -49,15 +49,14 @@
 <br/><br/><br/>
 
 ## 🚀 Recent Works
-<div width="100%" align="center">
- <a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width="300" height="200"></a>
- <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/coin-trackr/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width="300" height="200"></a>
-  <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tobuya/kitchen-genie/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width=300 height=200></a>
-</div>
-
-<!--  <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/nation-guide/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
+<div width="100%" align="left">
+ <a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width=250 height=150></a>
+ <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/coin-trackr/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width=250 height=150></a>
+  <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tobuya/kitchen-genie/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width=250 height=150></a>
+ <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/nation-guide/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/ip-tracker/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/gh-dashboard/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a> -->
+ <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/gh-dashboard/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
+</div>
 
 ## ⚡ Stats
 
@@ -68,15 +67,17 @@
 
   
 ## 🎮 Fun Projects
-<div width="100%" align="center">
+<div width="100%" align="left">
+ <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/penguin-dash/blob/main/penguin-dash-demo.gif" alt="platformer game" width=250 height="150"/></a>
+ <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width=250 height="150"/></a>
+ <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width=250 height=150/></a>
+</div>
+
+<div width="100%" align="left">
  <a href="https://github.com/IndieCoderMM/space-odyssey" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/space-odyssey/blob/main/demo.gif" alt="genetic spaceships" width="150" height="150"/></a>
-  <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/penguin-dash/blob/main/penguin-dash-demo.gif" alt="platformer game" width=300 height="150"/></a>
  <a href="https://github.com/IndieCoderMM/steel-warriors" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/steel-warriors/blob/main/demo_gameplay.gif" alt="tanks shooter" width="150" height="150"/></a>
   <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Map-generator" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Map-generator/wfc_demo.gif" alt="map generator" width="150" height="150"/></a>
- <a href="https://github.com/IndieCoderMM/zombie-land" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/zombie-land/blob/master/screenshots/demo-gameplay.gif" alt="top down shooter" width=300 height="150"/></a>
  <a href="https://github.com/IndieCoderMM/algo-lab/tree/master/Path-finder" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/algo-lab/blob/master/Path-finder/astar-demo.gif" alt="path finder" width="150" height="150"/></a>
- <a href="https://github.com/IndieCoderMM/chess-gui" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/chess-gui/blob/master/screenshots/chess_gui_demo.gif" alt="chess gui" width=150 height=150/></a> 
- <a href="https://github.com/IndieCoderMM/platformer-raylib" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/platformer-raylib/blob/master/screenshots/demo_gameplay00.gif" alt="platformer" width=300 height=150/></a>
  <a href="https://github.com/IndieCoderMM/BridgeHero-TurtleGame" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/BridgeHero-TurtleGame/blob/master/screenshots/demo-gameplay.gif" alt="bridge hero" width="150" height="150"/></a>
   <a href="https://github.com/IndieCoderMM/tictactoe-ai" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/tictactoe-ai/blob/master/tictactoe_demo.gif" alt="tictactoe ai" width="150" height="150"/></a>
 </div>
