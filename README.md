@@ -16,9 +16,15 @@
 - 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
 - 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to connect.
 
+## 🌐 Visit My Website 
+
+<a href="https://heinthantoo.me" target="_blank" rel="noreferrer"><img alt="portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-692be2?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+
+## 📌 Socials
+
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/indiecodermm" target="_blank" rel="noreferrer"><img alt="devto" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://dev.to/indiecodermm" target="_blank" rel="noreferrer"><img alt="devto" title="Dev.to" src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
