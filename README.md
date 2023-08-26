@@ -15,15 +15,11 @@
 - 🎮 I enjoy **working on fun mini-games** in my free time, exploring new techniques, and bringing imaginative ideas to life.
 - 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
 - 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to connect.
-  - 📧 hthant00chk@gmail.com
-
-### 🔗 Profiles
 
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://angel.co/u/hthantoo" target="_blank" rel="noreferrer"><img alt="wellfound" title="Wellfound Profile" src="https://custom-icon-badges.demolab.com/badge/AngelList-673ab7?style=for-the-badge&logo=AngelList&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/hthant00chk" target="_blank" rel="noreferrer"><img alt="hackerrank" title="Hackerrank Profile" src="https://custom-icon-badges.demolab.com/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-
+<a href="https://dev.to/indiecodermm" target="_blank" rel="noreferrer"><img alt="devto" title="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
