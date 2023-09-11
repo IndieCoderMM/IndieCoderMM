@@ -16,49 +16,54 @@
 - 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
 - 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to connect.
 
-## 🌐 Visit My Website 
+## 🌐 Visit My Websites 
 
 <a href="https://heinthantoo.me" target="_blank" rel="noreferrer"><img alt="portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-692be2?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://www.indiecoder.tech" target="_blank" rel="noreferrer"><img alt="blog" title="My Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-11a6a6?style=for-the-badge&logo=rss&logoColor=white"/></a>
 
 ## 📌 Socials
 
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@hthant" target="_blank" rel="noreferrer"><img alt="medium" title="Follow me on Medium" src="https://custom-icon-badges.demolab.com/badge/Medium-e91e63?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/indiecodermm" target="_blank" rel="noreferrer"><img alt="devto" title="Dev.to" src="https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://hashnode.com/@Heinthant" target="_blank" rel="noreferrer"><img alt="hashnode" title="Follow me on HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://wa.me/959794598922" target="_blank" rel="noreferrer"><img alt="whatsapp" title="Connect on Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:hthant00chk@gmail.com" target="_blank" rel="noreferrer"><img alt="gmail" title="Contact Me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 
 ## 🧰 Languages and Tools
-
+<!-- Front End  -->
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+<!-- Back End -->
+<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Django" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  
+
+<!-- Tools -->
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" />
 <br/><br/><br/>
 
 ## 🚀 Recent Works
 <div width="100%" align="left">
+ <a href="https://github.com/IndieCoderMM/indiecoder-blog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/indiecoder-blog/main/app_screenshot.png" alt="Personal Blog" title="Blog Website Built with Next.js" width="250" height="150"></a>
+ <a href="https://github.com/IndieCoderMM/dev-hub/tree/billio-landing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/dev-hub/billio-landing/screenshot.png" alt="Modern landing page with Next.js" title="Billio AI-powered Expense Tracker" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/e-learning-academy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/e-learning-academy/dev/app_screenshot1.png" alt="ELearning App" title="ClassUp" width=250 height=150></a>
  <a href="https://github.com/IndieCoderMM/coin-trackr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/coin-trackr/dev/app_mock_ups.png" alt="Budget App" title="Coin Trackr" width=250 height=150></a>
   <a href="https://github.com/tobuya/kitchen-genie" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tobuya/kitchen-genie/dev/kitchen_genie.png" alt="Recipe App" title="Kitchen Genie" width=250 height=150></a>
  <a href="https://github.com/IndieCoderMM/nation-guide" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/nation-guide/main/app_screenshot.png" alt="nation guide" title="Nation Guide" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/ip-tracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/ip-tracker/main/app_screenshot.png" alt="ip address tracker" title="IP Address Tracker" width="250" height="150"></a>
- <a href="https://github.com/IndieCoderMM/gh-dashboard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/gh-dashboard/main/app_screenshot.png" alt="github dashboard" title="GitHub Dashboard" width="250" height="150"></a>
 </div>
 
 ## ⚡ Stats
