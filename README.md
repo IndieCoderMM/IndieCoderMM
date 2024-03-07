@@ -7,6 +7,7 @@
 <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=yellow&color=orange&label=Streak&style=for-the-badge&query=%24.currentStreak.length&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DIndieCoderMM%26type%3Djson" alt="indiecodermm" />
 <a href="https://github.com/IndieCoderMM?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IndieCoderMM?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <a href="https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883"><img alt="followers" title="Total coding time since Feb 27, 2023" src="https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg?style=for-the-badge"/></a>
 </p>
  
 - 👨‍🚀 I'm a self-taught programmer from Myanmar.
