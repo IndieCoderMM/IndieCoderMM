@@ -10,19 +10,23 @@
  <a href="https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883"><img alt="followers" title="Total coding time since Feb 27, 2023" src="https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg?style=for-the-badge"/></a>
 </p>
  
-- 👨‍🚀 I'm a self-taught programmer from Myanmar.
-- 🎓 I completed **full-stack development program** at [Microverse](https://github.com/microverseinc).
-- ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into the realm of programming.
-- 🎮 I enjoy **working on fun mini-games** in my free time, exploring new techniques, and bringing imaginative ideas to life.
-- 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
-- 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to say hi.
+- 😎 Self-taught coder & average neovim enjoyer
+- 🎓 Certified full-stack developer from [Microverse](https://github.com/microverseinc)
+- 🔨 I build: mobile apps, web apps, and half-finished side projects
+- 🎮 Started coding to make games. Ended up making everything else instead.
+- 💬 ChatGPT helps me debug life, .. and code too
+- 🚀 Goal: Keep shipping projects that make life easier (or just more fun)
+- 💡 Philosophy: Write code. Break things. Learn fast. Repeat.
+- 🤝 Let's collaborate if you have a wild project idea.
+- 📧 hthant00chk@gmail.com
 
-## 🌐 Visit My Websites 
+
+### 🌐 Visit My Websites 
 
 <a href="https://heinthantoo.vercel.app" target="_blank" rel="noreferrer"><img alt="portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-692be2?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 <a href="https://www.indiecoder.tech" target="_blank" rel="noreferrer"><img alt="blog" title="My Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-11a6a6?style=for-the-badge&logo=rss&logoColor=white"/></a>
 
-## 📌 Socials
+### 📌 Socials
 
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://hashnode.com/@Heinthant" target="_blank" rel="noreferrer"><img alt="hashnode" title="Follow me on HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
@@ -32,7 +36,7 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redux,rails,ts,python,ruby,neovim,ubuntu,vite,tailwind,firebase,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redis,redux,rails,ts,python,ruby,vite,tailwind,firebase,aws,neovim,ubuntu)](https://skillicons.dev)
 
 ## 🚀 Recent Works
 
