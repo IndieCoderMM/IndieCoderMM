@@ -15,11 +15,11 @@
 - ⚔ My coding journey began with a **deep fascination for game dev**, which motivated me to dive into the realm of programming.
 - 🎮 I enjoy **working on fun mini-games** in my free time, exploring new techniques, and bringing imaginative ideas to life.
 - 🤝 I'm always excited to **collaborate on challenging projects**, whether it's developing an innovative website or a fascinating game.
-- 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to connect.
+- 📫 Feel free to reach out to me if you're interested in collaborating, have any questions, or just want to say hi.
 
 ## 🌐 Visit My Websites 
 
-<a href="https://heinthantoo.me" target="_blank" rel="noreferrer"><img alt="portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-692be2?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://heinthantoo.vercel.app" target="_blank" rel="noreferrer"><img alt="portfolio" title="My Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-692be2?style=for-the-badge&logo=rocket&logoColor=white"/></a>
 <a href="https://www.indiecoder.tech" target="_blank" rel="noreferrer"><img alt="blog" title="My Blog" src="https://custom-icon-badges.demolab.com/badge/Blog-11a6a6?style=for-the-badge&logo=rss&logoColor=white"/></a>
 
 ## 📌 Socials
@@ -31,33 +31,11 @@
 ---
 
 ## 🧰 Languages and Tools
-<!-- Front End  -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 
-<!-- Back End -->
-<img align="left" alt="Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />  
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  
-
-<!-- Tools -->
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
-<img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" />
-<br/><br/><br/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redux,rails,ts,python,ruby,neovim,ubuntu,vite,tailwind,firebase,aws)](https://skillicons.dev)
 
 ## 🚀 Recent Works
+
 <div width="100%" align="left">
  <a href="https://github.com/IndieCoderMM/indiecoder-blog" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/indiecoder-blog/main/app_screenshot.png" alt="Personal Blog" title="Blog Website Built with Next.js" width="250" height="150"></a>
  <a href="https://github.com/IndieCoderMM/dev-hub/tree/billio-landing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/IndieCoderMM/dev-hub/billio-landing/screenshot.png" alt="Modern landing page with Next.js" title="Billio AI-powered Expense Tracker" width="250" height="150"></a>
