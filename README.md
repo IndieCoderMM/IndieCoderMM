@@ -38,6 +38,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redis,redux,rails,ts,python,ruby,vite,tailwind,firebase,aws,neovim,ubuntu)](https://skillicons.dev)
 
+## 🐾 Say Hi to Buddy
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/IndieCoderMM"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ## 🚀 Recent Works
 
 <div width="100%" align="left">
