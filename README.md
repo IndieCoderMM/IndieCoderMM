@@ -17,7 +17,7 @@
 - 💬 ChatGPT helps me debug life, .. and code too
 - 🚀 Goal: Keep shipping projects that make life easier (or just more fun)
 - 💡 Philosophy: Write code. Break things. Learn fast. Repeat.
-- 🤝 Let's collaborate if you have a wild project idea.
+- 🤝 Let's collaborate if you have a fun project idea.
 - 📧 hthant00chk@gmail.com
 
 
@@ -31,7 +31,7 @@
 
 ## 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redis,rails,ts,python,tailwind,neovim,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,mysql,postgres,redis,ts,go,python,tailwind,neovim,ubuntu)](https://skillicons.dev)
 
 ## 🐾 Say Hi to Buddy
 
@@ -50,7 +50,10 @@
 | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews&hide=contribs&hide_title=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) | 
 | [![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=5) |
 
-  
+## 🖋️ Bits
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 🎮 Fun Projects
 <div width="100%" align="left">
  <a href="https://github.com/IndieCoderMM/penguin-dash" target="_blank" rel="noreferrer"><img src="https://github.com/IndieCoderMM/penguin-dash/blob/main/penguin-dash-demo.gif" alt="platformer game" width=250 height="150"/></a>
