@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hein Thant
 
-![Cover photo](cover-banner.png 'Hein Thant')
+<a href="https://comix-dev.vercel.app/"><img alt="Comix demo" title="Comix" src="./comix-banner.png"/></a>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge&label=Views" alt="indiecodermm" />
