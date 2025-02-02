@@ -52,6 +52,11 @@
 
 ## 🖋️ Bits
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Online Tools](https://indiecoder.vercel.app/library/awesome-tools/)
+- [Awesome UI Resource](https://indiecoder.vercel.app/library/ui-resources/)
+- [Maze Generation using Prim&#39;s Algorithm](https://indiecoder.vercel.app/blogs/maze-generator/)
+- [About Me](https://indiecoder.vercel.app/about/)
+- [Upload Files to AWS S3 from React](https://indiecoder.vercel.app/blogs/upload-s3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Fun Projects
