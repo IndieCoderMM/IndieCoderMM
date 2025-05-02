@@ -52,11 +52,11 @@
 
 ## 🖋️ Bits
 <!-- BLOG-POST-LIST:START -->
+- [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
 - [My Dev Environment Setup](https://indiecoder.vercel.app/blogs/my-dev-env/)
 - [Awesome Design Resource](https://indiecoder.vercel.app/library/ui-resources/)
 - [Awesome Online Tools](https://indiecoder.vercel.app/library/awesome-tools/)
 - [Maze Generation using Prim&#39;s Algorithm](https://indiecoder.vercel.app/blogs/maze-generator/)
-- [About Me](https://indiecoder.vercel.app/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Fun Projects
