@@ -52,11 +52,11 @@
 
 ## 🖋️ Bits
 <!-- BLOG-POST-LIST:START -->
+- [Telegram Bot in Go](https://indiecoder.vercel.app/blogs/go-telegram-bot/)
 - [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
 - [My Dev Environment Setup](https://indiecoder.vercel.app/blogs/my-dev-env/)
 - [Awesome Design Resource](https://indiecoder.vercel.app/library/ui-resources/)
 - [Awesome Online Tools](https://indiecoder.vercel.app/library/awesome-tools/)
-- [Maze Generation using Prim&#39;s Algorithm](https://indiecoder.vercel.app/blogs/maze-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Fun Projects
