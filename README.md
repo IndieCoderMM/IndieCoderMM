@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hein Thant
+# 👋 Hi there, I'm Hein Thant <img alt="Codewar" src="https://www.codewars.com/users/IndieCoderMM/badges/micro" />
 
 <a href="https://comix-dev.vercel.app/"><img alt="Comix demo" title="Comix" src="./comix-banner.png"/></a>
 
@@ -9,7 +9,7 @@
  <a href="https://github.com/IndieCoderMM?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IndieCoderMM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  <a href="https://wakatime.com/@da07faa5-4452-4d71-9ea6-6318e12c8883"><img alt="followers" title="Total coding time" src="https://wakatime.com/badge/user/da07faa5-4452-4d71-9ea6-6318e12c8883.svg?style=for-the-badge"/></a>
 </p>
- 
+
 - 😎 Self-taught coder & average neovim enjoyer
 - 🎓 Certified full-stack developer from [Microverse](https://github.com/microverseinc)
 - 🔨 I build: mobile apps, web apps, and half-finished side projects
