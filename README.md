@@ -27,6 +27,15 @@
 <a href="https://linkedin.com/in/hthantoo" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://bsky.app/profile/heinthantoo.bsky.social" target="_blank" rel="noreferrer"><img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/BlueSky-0886f3?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
 
+## 🖋️ Bits
+<!-- BLOG-POST-LIST:START -->
+- [Telegram Bot in Go](https://indiecoder.vercel.app/blogs/go-telegram-bot/)
+- [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
+- [My Dev Environment Setup](https://indiecoder.vercel.app/blogs/my-dev-env/)
+- [Awesome Design Resource](https://indiecoder.vercel.app/library/ui-resources/)
+- [Awesome Online Tools](https://indiecoder.vercel.app/library/awesome-tools/)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ## 🧰 Languages and Tools
@@ -49,15 +58,6 @@
 | :---: | :---: |
 | ![stats](https://github-readme-stats.vercel.app/api?username=indiecodermm&show_icons=true&theme=dracula&rank_icon=percentile&show=reviews&hide=contribs&hide_title=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=indiecodermm&theme=dracula) | 
 | [![hein's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hein&langs_count=5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=indiecodermm&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=5) |
-
-## 🖋️ Bits
-<!-- BLOG-POST-LIST:START -->
-- [Telegram Bot in Go](https://indiecoder.vercel.app/blogs/go-telegram-bot/)
-- [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
-- [My Dev Environment Setup](https://indiecoder.vercel.app/blogs/my-dev-env/)
-- [Awesome Design Resource](https://indiecoder.vercel.app/library/ui-resources/)
-- [Awesome Online Tools](https://indiecoder.vercel.app/library/awesome-tools/)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎮 Fun Projects
 <div width="100%" align="left">
