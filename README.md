@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hein Thant <img alt="Codewar" src="https://www.codewars.com/users/IndieCoderMM/badges/micro" />
 
-<a href="https://heinthantoo.vercel.app/"><img alt="Banner" title="Comix" src="./paper-banner.png"/></a>
+<a href="https://heinthantoo.vercel.app/"><img alt="Banner" title="Visit My Site" src="./neon-banner.png"/></a>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=IndieCoderMM&color=dc143c&style=for-the-badge&label=Views" alt="indiecodermm" />
