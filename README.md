@@ -29,11 +29,11 @@
 
 ## 🖋️ Bits
 <!-- BLOG-POST-LIST:START -->
+- [My Rubber Duck Has Read the Docs](https://indiecoder.vercel.app/blogs/my-ai-rubber-duck/)
 - [The 3x5 Life Hack](https://indiecoder.vercel.app/blogs/3x5-life-hack/)
 - [Telegram Bot in Go](https://indiecoder.vercel.app/blogs/go-telegram-bot/)
 - [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
 - [My Dev Environment Setup](https://indiecoder.vercel.app/blogs/my-dev-env/)
-- [Awesome Design Resource](https://indiecoder.vercel.app/library/ui-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
