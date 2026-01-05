@@ -29,11 +29,11 @@
 
 ## 🖋️ Bits
 <!-- BLOG-POST-LIST:START -->
+- [My Year in Code 2025](https://indiecoder.vercel.app/blogs/dev-wrap-2025/)
 - [Absolute Neovim](https://indiecoder.vercel.app/blogs/absolute-nvim/)
 - [My Rubber Duck Has Read the Docs](https://indiecoder.vercel.app/blogs/my-ai-rubber-duck/)
 - [The 3x5 Life Hack](https://indiecoder.vercel.app/blogs/3x5-life-hack/)
 - [Telegram Bot in Go](https://indiecoder.vercel.app/blogs/go-telegram-bot/)
-- [Unhooked from YouTube](https://indiecoder.vercel.app/blogs/unhooked-from-youtube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
